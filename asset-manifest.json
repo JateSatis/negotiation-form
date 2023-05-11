@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/negotiation-form/static/css/main.68e8a338.css",
-    "main.js": "/negotiation-form/static/js/main.0ddf5a5a.js",
+    "main.js": "/negotiation-form/static/js/main.ad74f46c.js",
     "static/js/787.ad4ccf42.chunk.js": "/negotiation-form/static/js/787.ad4ccf42.chunk.js",
     "index.html": "/negotiation-form/index.html",
     "main.68e8a338.css.map": "/negotiation-form/static/css/main.68e8a338.css.map",
-    "main.0ddf5a5a.js.map": "/negotiation-form/static/js/main.0ddf5a5a.js.map",
+    "main.ad74f46c.js.map": "/negotiation-form/static/js/main.ad74f46c.js.map",
     "787.ad4ccf42.chunk.js.map": "/negotiation-form/static/js/787.ad4ccf42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68e8a338.css",
-    "static/js/main.0ddf5a5a.js"
+    "static/js/main.ad74f46c.js"
   ]
 }
