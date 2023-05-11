@@ -20,7 +20,7 @@ const Form = () => {
 
   return (
     <div className="form">
-      <h1>Хотите забронировать переговорочную?</h1>
+      <h1>Хотите забронировать переговорную?</h1>
       <p>Заполните все поля, и мы с вами свяжемся</p>
       <div className="form-line">
         <Select
@@ -42,7 +42,7 @@ const Form = () => {
           setDate={(value) => updateData("date", value)}
         />
         <Select
-          name="Переговорочная"
+          name="Переговорная"
           value={negotiation.room}
           setValue={(value) => updateData("room", value)}
           variants={rooms}
