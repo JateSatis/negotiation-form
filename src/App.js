@@ -11,7 +11,7 @@ function App() {
     floor: null,
     room: null,
     date: null,
-    comment: null,
+    comment: "",
   };
 
   const [negotiation, setNegotiation] = useState(nullNegotiationData);
